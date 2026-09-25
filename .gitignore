@@ -1,0 +1,14 @@
+# Compiled binaries
+matrix_sequential
+matrix_openmp
+*.o
+*.out
+
+# Build directories
+build/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
