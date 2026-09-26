@@ -83,7 +83,7 @@ gcc -O2 matrix_sequential.c -o matrix_sequential
 
 ### Result Evidence
 
-![Sequential Final Output](sequential/results/seq-output1.png)
+![Sequential Final Output](sequential/results/seq-output1.jpeg)
 
 The result is correct because `C[0][0] = 4000.00`, matching the expected value for the initialized matrices.
 
