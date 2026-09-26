@@ -46,4 +46,4 @@ The program completes the full `O(N³)` computation without parallel threads. Th
 
 ## Final Output
 
-![Sequential final output](results/final_output.png)
+![Sequential final output](results/seq-output1.jpeg)
