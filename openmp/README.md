@@ -54,4 +54,4 @@ This is an observed speedup, not an ideal 8× scaling result; thread/runtime ove
 
 ## Final Output
 
-![OpenMP final output](results/final_output.png)
+![OpenMP final output](results/openmp-output.png)
