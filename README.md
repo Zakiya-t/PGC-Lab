@@ -71,7 +71,7 @@ gcc -O2 matrix_sequential.c -o matrix_sequential
 
 ### Result Evidence
 
-![Sequential final output](sequential/results/final_output.png)
+![Sequential final output](sequential/results/seq-output1.jpeg)
 
 The important evidence is that the multiplication completed successfully and `C[0][0] = 4000.00`, confirming the expected result.
 
@@ -112,7 +112,7 @@ The lab specifies `OMP_NUM_THREADS=8` and `-fopenmp` for the OpenMP build. fi
 
 ### Result Evidence
 
-![OpenMP final output](openmp/results/final_output.png)
+![OpenMP final output](openmp/results/openmp-output.png)
 
 The output confirms both parallel execution with 8 threads and correct matrix multiplication.
 
