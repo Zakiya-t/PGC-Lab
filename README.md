@@ -251,11 +251,11 @@ Linux:
 
 ### Sequential
 
-![Sequential result](sequential/results/final_output.png)
+![Sequential result](sequential/results/seq1-output.jpeg)
 
 ### OpenMP
 
-![OpenMP result](openmp/results/final_output.png)
+![OpenMP result](openmp/results/openmp-output.png)
 
 ### MPI
 
