@@ -1,11 +1,17 @@
 # Compiled binaries
-matrix_sequential
-matrix_openmp
-*.o
-*.out
+sequential/matrix_sequential
+openmp/matrix_openmp
+mpi/matrix_mpi
+cuda/matrix_cuda
+cuda/matrix_cuda.exe
 
-# Build directories
-build/
+# Object files
+*.o
+*.obj
+
+# Local build artifacts
+*.out
+*.exe
 
 # Editor / OS files
 .vscode/
