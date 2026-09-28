@@ -251,7 +251,7 @@ Linux:
 
 ### Sequential
 
-![Sequential result](sequential/results/seq1-output.jpeg)
+![Sequential result](sequential/results/seq-output1.jpeg)
 
 ### OpenMP
 
