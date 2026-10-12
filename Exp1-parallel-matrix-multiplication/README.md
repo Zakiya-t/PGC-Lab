@@ -477,14 +477,6 @@ Therefore, the experiment demonstrates both **correctness preservation** and the
 
 ---
 
-## Source Basis
+## Author
 
-The implementations and experiment organization follow the supplied laboratory manual covering:
-
-* 4000 × 4000 matrix multiplication
-* Sequential CPU execution
-* OpenMP shared-memory execution
-* MPI execution across four processes/nodes
-* CUDA GPU execution
-* Correctness verification using `C[0][0] = 4000.00`
-* Performance comparison across the four models
+Zakiya Tahasildar
